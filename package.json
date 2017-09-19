@@ -1,0 +1,29 @@
+{
+  "name": "quadrature-decoder",
+  "version": "0.0.1",
+  "description": "A highly efficient interrupt based quadrature signal decoder/counter. For Raspberry pi GPIO.",
+  "main": "quadrature_decoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinkaiwang/quadrature-decoder.git"
+  },
+  "keywords": [
+    "quadrature",
+    "decoder",
+    "counter",
+    "GPIO"
+  ],
+  "author": "Xinkai Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinkaiwang/quadrature-decoder/issues"
+  },
+  "homepage": "https://github.com/xinkaiwang/quadrature-decoder#readme",
+  "dependencies": {
+    "nan": "^2.7.0"
+  },
+  "gypfile": true
+}
